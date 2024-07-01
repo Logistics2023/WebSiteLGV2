@@ -230,7 +230,7 @@ export default function BottomNavigation({ rol }) {
                         </svg>
                     </button>
                 </div>
-            </div>
+            </div>    
 
             {/*-------------------------------------------- MOBILE--------------------------- */}
             <div className='pt-5'>
